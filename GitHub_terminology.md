@@ -32,7 +32,7 @@
 #### Push
 > Edilən dəyişiklikləri `repository`-ə  gödərilməsidir.
 
-#### Marge
+#### Merge
 > bir `repository`-dəki bir `branch`-la başqa `branch`-ın birləşməsidir.Birləşmə vaxtı `conflict` ola bilər.
 
 #### Conflict
