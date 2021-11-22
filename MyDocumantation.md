@@ -1,7 +1,7 @@
 # My Documantation
 ***
-### Merge Testing 
-### WillConf
+### Merge Testing
+### Conflict Testing
 ### Pull request Testing
 ***
 ### GitHub Code
