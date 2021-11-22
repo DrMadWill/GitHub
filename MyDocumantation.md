@@ -14,7 +14,7 @@
 - `git branch -a` => btün `branch`-ları çıxarır.
 - `git branch testing` => burada `local`-da `testing` adlı `brach` yaradır.
 - `git checkout testing` => burada `local`-dakı `testing` adlı `brach`-a keçir.
-- `git status` => məlumatlarin _stage area_-a əlavə edilib edilmədiyini bildirir.
+- `git status` => məlumatlarin _stage area_-a və `remote`-a əlavə edilib edilmədiyini bildirir.
 - `git pull` => `remote repository`-idə olan dəyişiklikləri `local repository`-ə əks etdirir.
 - `git push origin :testing` => `remote`-dakı `testing` `branch`-ını sillər.
 - `git branch -D testing` => `local`-dakı `testing` `branch`-ını sillər.
