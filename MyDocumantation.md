@@ -27,3 +27,5 @@
 - `git stash list` => `stash` edilmiş iformationları list səkilində göstərir.
 - `git stash apply` => `stash` edilmiş iformationları kod sətrində göstərir.
 - `git stash clear` => `stash`-ları təmizləyir.
+- `git reset --hard` => `branch`-dakı dəşiklikləri en soncu `commit`-ə qaytarir `discard` deyilən hadisə.
+- `git checkout -- MyDocumantation.md` `branch`-dakı _MyDocumantation.md_ faylındakı dəşiklikləri en soncu `commit`-ə qaytarir.
