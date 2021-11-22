@@ -1,6 +1,7 @@
 # My Documantation
 ***
 ### Merge Testing
+### Conflict Testing
 ### Pull request Testing
 ***
 ### GitHub Code
