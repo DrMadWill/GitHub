@@ -1,8 +1,8 @@
 
 # My Note
-***
-### GitHub Terminalaogiyasi
 
+### GitHub Terminalaogiyasi
+***
 #### Repository
 > Proyektin adini, prayektin daxilindəki bütün _folder_-ləri və proyektə olan bütün dəyişiklikləri özündə saxlayır.
 
