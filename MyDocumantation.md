@@ -20,3 +20,10 @@
 - `git push origin :testing` => `remote`-dakı `testing` `branch`-ını sillər.
 - `git branch -D testing` => `local`-dakı `testing` `branch`-ını sillər.
 - `git checkout -b Test` => `Test` `branch`-ı yaradır və o `branch`-a keçir.
+- `git merge origin/Testing`=> `Testing` `branch`-ını olduğu `branch`-a `merge`-ləyir.
+- `git merge origin/Testing`=> `Testing` `branch`-ını olduğu `branch`-a `merge`-ləyir.
+- `git merge Testing main` => `Testing` `branch`-ını `main` `branch`-ına `merge`-ləyir.
+- `git stash push` => dəyişikliyi qeydir ancaq _stage area_-a əlavə etmir. `brach` arasinda deşilikdə isfadə edilir.
+- `git stash list` => `stash` edilmiş iformationları list səkilində göstərir.
+- `git stash apply` => `stash` edilmiş iformationları kod sətrində göstərir.
+- `git stash clear` => `stash`-ları təmizləyir.
