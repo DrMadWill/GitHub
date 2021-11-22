@@ -11,4 +11,4 @@
 - `git branch -a` => btün `branch`-ları çıxarır.
 - `git branch testing` => burada `local`-da `testing` adlı `brach` yaradır.
 - `git checkout testing` => burada `local`-dakı `testing` adlı `brach`-a keçir.
-- 
+- `git status` => məlumatlarin _stage area_-a əlavə edilib edilmədiyini bildirir.
