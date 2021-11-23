@@ -1,11 +1,7 @@
 # Welcome to My GitHub Pages 
 `<madwill>I learn GitHub. I like code.</madwill>`
 
-
-<br>
-<br>
-
-﻿## Learning GitHub 	:mortar_board:
+## Learning GitHub 	:mortar_board:
 <img src="https://i.postimg.cc/2SPBwCfK/learcode-2.gif"  height="300" width="450" >
 
 ## GitHub Terminology <a href="https://github.com/DrMadWill/GitHub/blob/main/GitHub_terminology.md"><img src="https://i.postimg.cc/Y0bWfgp6/icon.png" align="right" height="100" width="150" ></a>
